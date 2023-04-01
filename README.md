@@ -96,11 +96,12 @@ You can download the above models in the paper from [[Baidu Yun]](https://pan.ba
 ## Citation
 If you find this code useful for your research, please cite our paper
 ```
-@article{wang2021uncertainty,
+@article{wang2022uncertainty,
   title={Uncertainty-aware clustering for unsupervised domain adaptive object re-identification},
   author={Wang, Pengfei and Ding, Changxing and Tan, Wentao and Gong, Mingming and Jia, Kui and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2108.09682},
-  year={2021}
+  journal={IEEE Transactions on Multimedia},
+  year={2022},
+  publisher={IEEE}
 }
 
 ```
